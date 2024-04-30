@@ -1,0 +1,16 @@
+.userDetails-container {
+  padding: 50px;
+}
+
+.userDetails-title {
+  text-align: center;
+  padding: 20px 0px;
+}
+
+.userDetails-box {
+  border: 1px solid black;
+  text-align: center;
+  padding: 50px 30px;
+  margin: 0 auto;
+  width: fit-content;
+}

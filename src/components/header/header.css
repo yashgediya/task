@@ -1,0 +1,20 @@
+.header-container {
+  height: 50px;
+  background: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navlink-container {
+  list-style: none;
+  display: flex;
+  gap: 25px;
+}
+
+.navlink-container li a {
+  cursor: pointer;
+  color: black;
+  text-decoration: none;
+  font-weight: 600;
+}

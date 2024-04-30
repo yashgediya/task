@@ -1,0 +1,39 @@
+.userlist-container {
+  padding: 50px;
+}
+
+.userlist-title {
+  text-align: center;
+  padding: 20px 0px;
+}
+
+.userlist-table {
+  border-collapse: collapse;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.userlist-table td,
+.userlist-table th {
+  border: 1px solid #000000;
+  border-collapse: collapse;
+  padding: 15px;
+  text-align: center;
+}
+
+.userlist-view-button {
+  background: transparent;
+  border: 0px;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.pagination-container {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
